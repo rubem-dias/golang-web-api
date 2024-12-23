@@ -1,0 +1,6 @@
+# Testar o endpoint de saúde
+GET http://localhost:8080/health
+
+
+# Testar o endpoint de saudação
+GET http://localhost:8080/hello/John
